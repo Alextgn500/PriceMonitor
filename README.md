@@ -138,12 +138,12 @@ DATABASE_URL=sqlite:///./price_monitor.db
 REDIS_URL=redis://localhost:6379/0
 
 # Безопасность
-SECRETKEY=your-secret-key-here
+SECRET_KEY=your-secret-key-here
 DEBUG=true
 
 # Telegram бот (опционально)
-TELEGRAMBOTTOKEN=bot-token
-TELEGRAMADMINID=admin-id
+TELEGRAM_BOT_TOKEN=bot-token
+TELEGRAM_ADMIN_ID=admin-id
 
 # Настройки парсинга
 PARSERDELAYMIN=1
