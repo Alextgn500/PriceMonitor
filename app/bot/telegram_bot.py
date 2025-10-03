@@ -7,7 +7,7 @@ from app.services.price_monitor import PriceMonitorService
 
 logging.basicConfig(level=logging.INFO)
 
-BOT_TOKEN = ""
+BOT_TOKEN = "8355450140:AAEPFTyVSx3YhhgL1XRnKCu8Guslv6_3Fbw"
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
