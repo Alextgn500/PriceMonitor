@@ -234,7 +234,7 @@ curl "http://localhost:8000/api/v1/prices/current"
   ,
   "statistics": {
     "minprice": 999.99,
-    "maxprice": 1199.99,
+    "maxprice": 1099.99,
     "avgprice": 1049.99,
     "pricechange24h": -50.00,
     "pricechangepercent": -4.35
